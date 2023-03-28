@@ -43,7 +43,6 @@ sns.histplot(x='Postal Code',data=data)
 ![Screenshot 2023-03-28 153652](https://user-images.githubusercontent.com/113497491/228205724-bcdbb8cc-fdf9-4969-97e0-cc37e3e13888.png)
 ![Screenshot 2023-03-28 153701](https://user-images.githubusercontent.com/113497491/228205778-b1b4a6e4-7b95-42f8-b7fa-6260e1f6ceb3.png)
 ![Screenshot 2023-03-28 153708](https://user-images.githubusercontent.com/113497491/228205849-3be54f79-5bec-4fae-892f-618530a26275.png)
-![Screenshot 2023-03-28 153708](https://user-images.githubusercontent.com/113497491/228206680-8be21509-fa3d-4d5a-8ee3-60e3b55734d3.png)
 
 ![Screenshot 2023-03-28 153717](https://user-images.githubusercontent.com/113497491/228205909-5ee2c119-5910-4306-ab3e-08f4b6866528.png)
 ![Screenshot 2023-03-28 153727](https://user-images.githubusercontent.com/113497491/228205966-675565b4-d47e-4831-97d0-5c5a3ec25030.png)
